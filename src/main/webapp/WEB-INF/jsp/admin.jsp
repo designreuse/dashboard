@@ -17,6 +17,7 @@
 		</div>
 
 		<div class="row">
+			<a href="http://ironsummitmedia.github.io/startbootstrap-sb-admin-2/pages/index.html">sb-admin-2</a>
 		</div>
 
 	</tiles:putAttribute>
